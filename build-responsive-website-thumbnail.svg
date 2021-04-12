@@ -24,11 +24,11 @@
        inkscape:collect="always"
        id="linearGradient847">
       <stop
-         style="stop-color:#b993d6;stop-opacity:1"
+         style="stop-color:#283c86;stop-opacity:1"
          offset="0"
          id="stop843" />
       <stop
-         style="stop-color:#8ca6db;stop-opacity:1"
+         style="stop-color:#33b08a;stop-opacity:1"
          offset="1"
          id="stop845" />
     </linearGradient>
@@ -124,7 +124,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -142,19 +142,19 @@
        ry="0" />
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:10.5833px;line-height:1.3;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;word-spacing:0px;text-anchor:middle;fill:#31335d;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1;"
+       style="font-weight:bold;font-size:10.5833px;line-height:1.3;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;word-spacing:0px;text-anchor:middle;fill:#f5f7f5;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        x="72.575211"
-       y="14.52166"
+       y="16.989141"
        id="text837"><tspan
          sodipodi:role="line"
          id="tspan835"
          x="72.575211"
-         y="14.52166"
-         style="text-align:center;text-anchor:middle;fill:#31335d;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1;">Build </tspan><tspan
+         y="16.989141"
+         style="text-align:center;text-anchor:middle;fill:#f5f7f5;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1">Build </tspan><tspan
          sodipodi:role="line"
          x="72.575211"
-         y="28.279949"
-         style="text-align:center;text-anchor:middle;fill:#31335d;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1;"
+         y="30.747431"
+         style="text-align:center;text-anchor:middle;fill:#f5f7f5;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
          id="tspan839">Responsive website</tspan></text>
     <g
        id="g1316"
